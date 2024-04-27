@@ -1,5 +1,13 @@
-// Thanks to https://go.dev/src/net/example_test.go
+// (cd demo; make); go run coypud.go -r demo/coypu/
 package main
+
+// Thanks to https://go.dev/src/net/example_test.go
+//
+// Demo:
+//
+// (sleep 2; echo '31------------compensation                                            ') | telnet localhost 31525
+//
+// (sleep 2; echo '30                                                                    ') | telnet localhost 31525
 
 import (
 	"flag"
