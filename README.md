@@ -1,4 +1,4 @@
-# COPYU Protocol 1.0
+# COYPU Protocol 1.0
 
 This is a simplifed gopher-type protocol using a TCP server.
 
